@@ -14,5 +14,6 @@ console.log("Hello World!");
  *    Don't forget the semicolon.
  *
  * 4) Click Run.
- *
  */
+console.log("i am divakar")
+console.log(12345)
