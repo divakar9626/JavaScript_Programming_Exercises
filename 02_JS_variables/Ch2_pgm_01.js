@@ -14,3 +14,6 @@ var score;
  * 3) Declare two more variables.
  *
  */
+var zero;
+let one;
+const two;
