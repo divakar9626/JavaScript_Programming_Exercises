@@ -15,5 +15,5 @@ console.log("Hello World!");
  *
  * 4) Click Run.
  */
-console.log("i am divakar")
-console.log(12345)
+console.log("i am divakar");
+console.log(12345);
