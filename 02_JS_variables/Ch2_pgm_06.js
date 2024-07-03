@@ -21,3 +21,10 @@ console.log(playerName + " is in " + locationName);
  *    something like "Lionel Messi has a score of 100"
  *
  */
+
+var goal;
+
+playerName = "Lionel Messi";
+goal = 100;
+
+console.log(playerName + " has a score of " + goal);
