@@ -22,3 +22,9 @@ console.log(playerName + " is in " + locationName);
  *    with a new one to display the message variable.
  *
  */
+
+var playerName;
+var playerName = "Kandra";
+var locationName = "The Dungeon of Doom";
+
+console.log(playerName + " has health 50 and is in The " + locationName);
