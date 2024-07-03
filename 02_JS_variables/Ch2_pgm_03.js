@@ -18,3 +18,7 @@ console.log(score);
  * 4) Use console.log to display your variable on the console.
  *
  */
+
+var score2;
+score = 200;
+console.log(score2);
