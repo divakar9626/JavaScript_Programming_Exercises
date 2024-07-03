@@ -22,3 +22,11 @@ score = 100;
  *    Repeat steps 1, 2 and 3.
  *
  */
+
+var zero;
+let one;
+let two;
+
+zero = 0;
+one = 100;
+two = "hello world";
