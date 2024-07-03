@@ -25,3 +25,9 @@ console.log(message);
  *    Be careful to use matching speech marks.
  *
  */
+
+message = 'hello' + " " + 'sir' ;
+console.log(message);
+
+message = 'I' + 'am' + 'divakar' ;
+console.log(message);
