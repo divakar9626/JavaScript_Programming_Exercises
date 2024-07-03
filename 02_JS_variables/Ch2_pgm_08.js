@@ -26,3 +26,13 @@ console.log("Way to go!");
  * 4) Display a message of congratulations
  *
  */
+
+var score;
+score = 100;
+console.log("Your score was " + score);
+
+console.log("Great splat!!!");
+score = score + 100;
+console.log("New score: " + score);
+
+console.log("congratulations well done keep rocking");
