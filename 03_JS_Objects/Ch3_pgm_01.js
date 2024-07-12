@@ -26,11 +26,11 @@ console.log(bookTitle + " by " + bookAuthor);
 
 
 
-booktitle1 = "atomic habits";
-bookauthor1 = "james clear";
+var booktitle1 = "atomic habits";
+var bookauthor1 = "james clear";
 console.log(booktitle1 + " by " + bookauthor1);
 
 
-booktitle2 = "psychology of money";
-bookauthor2 = "Morgan Housel";
+var booktitle2 = "psychology of money";
+var bookauthor2 = "Morgan Housel";
 console.log(booktitle2 + " by " + bookauthor2);
