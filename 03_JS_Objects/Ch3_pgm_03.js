@@ -23,3 +23,13 @@ console.log(book);
  * 3) Log book2 to the console.
  *
  */
+
+var book2;
+
+book = {
+    title : "The Atomic Habits",
+    author : "James Clear",
+    published : 2018
+};
+
+console.log(book2);
