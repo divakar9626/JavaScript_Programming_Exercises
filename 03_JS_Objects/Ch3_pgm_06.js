@@ -26,3 +26,13 @@ book = {
  *    and try steps 1 and 2 again.
  *
  */
+
+var book;
+var booknamae;
+
+bookname = "atomic habit";
+book = {
+    title:bookname
+};
+
+console.log(book.title);
