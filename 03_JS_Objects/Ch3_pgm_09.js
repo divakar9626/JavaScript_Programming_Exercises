@@ -30,3 +30,14 @@ console.log(book2.title + " by " + book2.author);
  *    new property.
  *
  */
+
+var book1;
+
+book1 ={
+	title: "atomic habit",
+	author: "James Clear",
+	published: 2018
+};
+
+
+console.log(book1.title + " by " + book1.author + " published on " + book1.published);
