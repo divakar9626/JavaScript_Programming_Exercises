@@ -25,3 +25,21 @@ book2 = {
  * 3) Log both objects to the console.
  *
  */
+
+var book1;
+var book2;
+book1 ={
+	title: "atomic habit",
+	author: "James Clear",
+	published: 2018
+};
+book2 = {
+	title: "northen light",
+	author: "philip pullman",
+	published: 1995
+};
+
+console.log(book1);
+console.log(book2);
+
+
