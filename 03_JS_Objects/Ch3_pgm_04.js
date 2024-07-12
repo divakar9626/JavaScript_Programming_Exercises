@@ -20,3 +20,13 @@ book = {};
  *    to the outcome.
  *
  */
+
+
+var book;
+
+book = {
+
+
+
+  
+};
