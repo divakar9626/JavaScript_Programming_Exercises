@@ -26,3 +26,20 @@ player1.score = 50;
  * 3) Update other properties using the console.
  *
  */
+
+var player1;
+
+player1 = {
+    name: "Max",
+    attempted: 0,
+    correct: 0
+};
+
+player1.attempted = 1;
+player1.correct = 1;
+player1.score = 50;
+player1.score = 150;
+player1.nickname = "diva" //added lines
+
+console.log(player1.score)
+console.log(player1.nickname)  
