@@ -27,3 +27,19 @@ console.log(book.author);
  *    are available interactively via the console.
  *
  */
+
+var book1;
+var book2;
+book1 ={
+	title: "atomic habit",
+	author: "James Clear",
+	published: 2018
+};
+book2 = {
+	title: "northen light",
+	author: "philip pullman",
+	published: 1995
+};
+
+console.log(book1.title);
+console.log(book2.author);
