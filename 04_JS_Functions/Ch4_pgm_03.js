@@ -71,3 +71,11 @@ console.log("total cost = $" + sale1.total + "\n\n");
 console.log("price = $" + sale2.price);
 console.log("tax @ " + sale2.taxRate + "% = $" + sale2.tax);
 console.log("total cost = $" + sale2.total + "\n\n");
+
+console.log("price = $" + sale3.price);
+console.log("tax @ " + sale3.taxRate + "% = $" + sale3.tax);
+console.log("total cost = $" + sale3.total + "\n\n");
+
+console.log("price = $" + sale4.price);
+console.log("tax @ " + sale4.taxRate + "% = $" + sale4.tax);
+console.log("total cost = $" + sale4.total);
