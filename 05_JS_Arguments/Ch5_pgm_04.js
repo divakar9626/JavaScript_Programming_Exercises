@@ -25,3 +25,13 @@ showMessage("Hello to Jason Isaacs and Stephen Fry");
  *    myMessage as the argument.
  *
  */
+
+var showMessage;
+
+showMessage = function (message,mymessage = "i am divakar and ") {
+	console.log(mymessage + "The message is: " + message);
+};
+
+showMessage("It's full of stars!");
+showMessage("Hello to Jason Isaacs");
+showMessage("Hello to Jason Isaacs and Stephen Fry");
