@@ -33,3 +33,14 @@ square(0.5);
  *    e.g. The square root of 9 is 3.
  *
  */
+
+console.log(Math.sqrt(9))
+var squareroot;
+
+squareroot = function (numberToSquare) {
+  var result;
+  result = numberToSquare**0.5;
+  console.log(result);
+};
+
+squareroot(9);
