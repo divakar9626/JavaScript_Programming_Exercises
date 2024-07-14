@@ -31,3 +31,18 @@ console.log("Items: " + player.items);
  * of items called an array. See Chapter 8.
  *
  */
+
+
+var player1;
+
+player1 = {
+    name: "Tanjior",
+    health: 75,
+    place: "Demon Slayer crop",
+    items: "A red falming sword"
+};
+
+console.log(player1.name);
+console.log(player1.name + " is in " + player1.place);
+console.log(player1.name + " has health " + player1.health);
+console.log("Items: " + player1.items);
