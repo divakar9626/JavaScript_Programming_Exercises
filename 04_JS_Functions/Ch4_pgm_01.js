@@ -25,3 +25,17 @@ console.log("------------------------------");
  * 3) Write code to display info about the blog post.
  *
  */
+
+var movie2;
+
+movie2 = {
+  title: "Despicable me 4",
+  actors: "Pierre Coffin, Steve Carell",
+  directors: "Chris Renaud, Patrick Delage"
+};
+
+console.log("Movie information for " + movie2.title);
+console.log("------------------------------");
+console.log("Actors: " + movie2.actors);
+console.log("Directors: " + movie2.directors);
+console.log("------------------------------");
