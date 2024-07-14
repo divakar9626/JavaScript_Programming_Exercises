@@ -26,3 +26,17 @@ console.log(number1 + " + " + number2 + " = " + result);
  * 4) Update the console.log line to show the new calculation
  *
  */
+
+var number1 = 1000;
+var number2 = 66;
+var number3 = 21
+var result;
+var findTotal;
+
+findTotal = function () {
+	result = number1 + number2;
+};
+
+findTotal();
+
+console.log(number1 + " + " + number2 +  " + " + number3 + " = " + result);
