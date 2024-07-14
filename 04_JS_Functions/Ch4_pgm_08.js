@@ -24,3 +24,16 @@ displayMenu();
  *    Run the program
  *
  */
+
+var displaymenu;
+ displaymenu = function(){
+	console.log("select your options");
+	console.log("(1) Print log");
+	console.log("(2) Upload file");
+	console.log("(3) create file");
+	console.log("(4) Edit file");
+	console.log("(5) Delete file");
+	console.log("(9) Quit");
+ }
+
+ displaymenu();
