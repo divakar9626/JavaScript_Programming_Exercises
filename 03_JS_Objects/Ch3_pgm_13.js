@@ -39,3 +39,17 @@ var location = {
    *    instead of location.
    *
    */
+
+var glocation = {
+    "city"      : "Coimbatore",
+    "state"     : "TN",
+    "country"   : "INDIA",
+    "zip"       : "641035",
+    "latitude"  : 11.081957,
+    "longitude" : 76.99771,
+    "elevation" : 47.000
+  };
+  
+  console.log(glocation);
+  console.log(glocation.city);
+  console.log(glocation.state); 
