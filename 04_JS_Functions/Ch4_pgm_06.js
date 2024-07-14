@@ -25,3 +25,13 @@ sayHello();
  *    of "Hello World!" one by one down the page
  *
  */
+
+var sayHello;
+
+sayHello = function () {
+	console.log("\nHello World! \n");
+};
+
+sayHello();
+sayHello();
+sayHello();
