@@ -58,3 +58,32 @@ showMovieInfo();
  *    on the console.
  *
  */
+
+var q;
+var q1;
+var q2;
+var questions;
+
+q1 ={
+	qu: "what is 10+10?",
+	Cans : 10,
+	Wans: 20
+};
+
+q2 ={
+	qu: "what is capital of Tamil Nadu?",
+	Cans : "Chennai",
+	Wans: "Coimbatore"
+};
+
+questions = function(){
+
+	console.log(q.qu + "\n the correct answer is " + q.Cans + "\n The wrong answer is " + q.Wans );
+
+};
+
+q = q1;
+questions();
+
+q = q2;
+questions();
