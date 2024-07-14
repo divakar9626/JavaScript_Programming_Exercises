@@ -26,3 +26,15 @@ showMessage();
  *    the two strings.
  *
  */
+
+var msg;
+var showMessage;
+
+msg = "It's full of stars!";
+message = " and i am divakar"
+
+showMessage = function () {
+	console.log(msg + message);
+};
+
+showMessage();
