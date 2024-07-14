@@ -27,3 +27,11 @@ showMessage("It's full of stars!");
  *    message passed in.
  *
  */
+
+var showMessage;
+
+showMessage = function (message) {
+	console.log("The message is " + message + " and divakar will became hacker one day");
+};
+
+showMessage("for Mr Divakar J");
