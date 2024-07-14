@@ -31,3 +31,24 @@ showMovieInfo = function () {
  *    Is the output as expected?
  *
  */
+
+var movie;
+var showMovieInfo;
+
+movie = {
+  title: "Despicable me 4",
+  actors: "Pierre Coffin, Steve Carell",
+  directors: "Chris Renaud, Patrick Delage"
+};
+
+
+
+showMovieInfo = function () {
+  console.log("Movie information for " + movie.title);
+  console.log("------------------------------");
+  console.log("Actors: " + movie.actors);
+  console.log("Directors: " + movie.directors);
+  console.log("------------------------------");
+};
+
+showMovieInfo();
