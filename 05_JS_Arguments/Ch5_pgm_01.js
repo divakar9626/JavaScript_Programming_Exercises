@@ -29,3 +29,15 @@ showMessage();
  * outside of the function body.
  *
  */
+
+var message;
+var showMessage;
+
+message = "It's full of stars!";
+
+showMessage = function () {
+	msg = message;
+	console.log(msg);
+};
+
+showMessage();
